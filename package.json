@@ -27,7 +27,7 @@
     "dependencies" : {
         "optimist" : "~0.3.4",
         "upnode" : "~0.3.1",
-        "upnode" : "git://github.com/davidbanham/upnode.git#master"
+        "upnode" : "git://github.com/davidbanham/upnode.git#master",
         "pushover" : "~0.1.4",
         "mkdirp" : "~0.3.3"
     },
